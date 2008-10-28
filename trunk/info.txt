@@ -1,0 +1,13 @@
+"Gamemode"
+{
+	"name"		"Team Skeleton Gamemode"
+	"version"	"1.2"
+
+	"author_name"	"phpmysql"
+	"author_email"	""
+	"author_url"	"forums.facepunchstudios.com"
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
+}
