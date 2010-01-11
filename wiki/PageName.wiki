@@ -1,0 +1,14 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+I make a gamemode base for people new in lua that want to make a gamemode for their own server and they do not have the skills to make one.
+
+= Details =
+
+I make this file based on the skeleton by garry. I noticed that there is a gamemode base by rambo, however it is different because is the gamemode more easy to customize that you can be experienced.
+
+I feel free to use any new file in the gamemode with the property credits for the autor in the code. Then i just need some feedback from some issues thant i do not know how to solve. This is the Team Skeleton Gamemode that i make using the program notepad++
+http://sourceforge.net/projects/notepad-plus/
+
+  * http://code.google.com/p/skeletongamemodes/downloads/list?q=label:teamskeleton
